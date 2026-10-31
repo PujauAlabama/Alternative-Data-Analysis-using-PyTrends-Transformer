@@ -1,1 +1,1 @@
-# Alternative-Data-Analysis-using-PyTrends-Transformer
+# Alternative Data Analysis using PyTrends and HuggingFace Transformer models
